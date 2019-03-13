@@ -10,4 +10,4 @@ def index(request):
 
 
 
-   return render(request, 'index.html', {"fr":f , "sec1":sec1 , "sec2":sec2} )
+   return render(request, 's4/index.html', {"fr":f , "sec1":sec1 , "sec2":sec2} )

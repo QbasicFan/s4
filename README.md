@@ -16,7 +16,7 @@ Section2s
 
 
 
-![alt text](https://github.com/QbasicFan/s4/blob/master/s1Front.png)
+![alt text](https://github.com/QbasicFan/s4/blob/master/ss4.png)
 
 
 
@@ -47,3 +47,7 @@ python manage.py makemigrations s4
 python manage.py migrate s4
 
 6) re-runserver
+
+*****************
+If you like this starter theme, want help with your django projects or want more advanced django templates visit my website. Www.afrodoo.co
+

@@ -44,9 +44,12 @@ INSTALLED_APPS = (
   
 5)
 python manage.py makemigrations s4
+
+6)
 python manage.py migrate s4
 
-6) re-runserver
+7)
+re-runserver
 
 ***************
 SEO/SEM moduleS  
